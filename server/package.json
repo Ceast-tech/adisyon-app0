@@ -1,0 +1,13 @@
+{
+  "name": "adisyon-app-server",
+  "version": "1.0.0",
+  "description": "Restoran adisyon uygulamasi - backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.24.4"
+  }
+}
